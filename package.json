@@ -1,6 +1,6 @@
 {
   "name": "writable-file-stream",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Writable file stream with memory buffer and reopen feature",
   "main": "index.js",
   "directories": {
