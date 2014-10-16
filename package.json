@@ -1,0 +1,30 @@
+{
+  "name": "writable-file-stream",
+  "version": "1.0.0",
+  "description": "Writable file stream with memory buffer and reopen feature",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zerkalica/writable-file-stream.git"
+  },
+  "keywords": [
+    "stream",
+    "file",
+    "writable",
+    "reopen",
+    "memory",
+    "buffer"
+  ],
+  "author": "Sergey Yuferev <nexor@ya.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zerkalica/writable-file-stream/issues"
+  },
+  "homepage": "https://github.com/zerkalica/writable-file-stream"
+}
